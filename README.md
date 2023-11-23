@@ -1,6 +1,6 @@
 <h3 align="center">Welcome To My PlayGround</h3>
 
-###
+
 
 <p align="center">개발과 디자인을 통해 지속적인 성장을 즐깁니다</p>
 
