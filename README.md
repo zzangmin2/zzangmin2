@@ -1,7 +1,8 @@
 <h3 align="center">Welcome To My PlayGround</h3>
-<hr>
 
-<p align="left">안녕하세요 김정민입니당</p>
+###
+
+<p align="center">개발과 디자인을 통해 지속적인 성장을 즐깁니다</p>
 
 ###
 
@@ -9,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">👧 김정민 ( Kim Jung Min ) <br>🎂 2002.10.29<br>📚 JavaScript/TypeScirpt와 React를 공부하고 있어요<br>💘 소확행을 좋아해요</p>
 
 ###
 
