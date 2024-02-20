@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👧 김정민 ( Kim Jung Min ) <br>🎂 2002.10.29<br>✉ aaaa@email.com<br><br>💻 웹 프론트엔드 개발자를 꿈꾸고 있어요.<br>👶 아직 학부생이라 부족한 점이 많지만 무럭무럭 성장 중이예요.<br>📚 JavaScript/TypeScirpt와 React를 공부하고 있어요.<br>🎨 UI/UX 디자인에도 관심이 많아요.<br><br>💘 소확행을 좋아해요.</p>
+<p align="left">👧 김정민 ( Kim Jung Min ) <br>🎂 2002.10.29<br>✉ aaaa@email.com<br><br>💻 웹 프론트엔드 개발자를 꿈꾸고 있어요.<br>🎨 UI/UX 디자인에도 관심이 많아요.<br><br>💘 소확행을 좋아해요.</p>
 
 ###
 
@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
