@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👧 김정민 ( Kim Jung Min ) <br>🎂 2002.10.29<br>✉ aaaa@email.com<br><br>💻 웹 프론트엔드 개발자를 꿈꾸고 있어요.<br>🎨 UI/UX 디자인에도 관심이 많아요.<br><br>💘 소확행을 좋아해요.</p>
+<p align="left">👧 김정민 ( Kim Jung Min ) <br>🎂 2002.10.29<br>💻 웹 프론트엔드 개발자를 꿈꾸고 있어요.<br>🎨 UI/UX 디자인에도 관심이 많아요.</p>
 
 ###
 
